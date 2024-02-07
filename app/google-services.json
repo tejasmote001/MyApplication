@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88803752277",
+    "project_id": "locaride-loginregister",
+    "storage_bucket": "locaride-loginregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88803752277:android:1681ab01728ea8a83857dc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFPxeI3XxCv9WolW3iRWS_ZkTvAkQ0RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

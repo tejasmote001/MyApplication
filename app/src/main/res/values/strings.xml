@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome_to_locaride_android_application">Welcome to Locaride Android Application</string>
+    <string name="register">REGISTER</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet, Sign Up !</string>
+    <string name="todo">TODO</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered_sign_in">Already Registered , Sign In !</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_mobile_number">Enter Your Mobile Number</string>
+    <string name="log_out">LOG OUT</string>
+</resources>
